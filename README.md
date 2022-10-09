@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Samuel Muriithi Wanjiru
 
+![NGWA](https://user-images.githubusercontent.com/113695755/194760019-d16bb3fb-bfa6-4099-9a29-cb9ef976cbaa.jpg)
+
 
  ✨ Samuel Wanjiru is both a software engineer and an award winning data science professional.
-  He holds a Master of Science degree in Applied Statistics and has published one scientific research journal in the field of machine learning and financial time series. Further, he holds a Bachelors of Science degree in Mathematics & Computer Science. ✨ 
+  He holds a Master of Science degree in Applied Statistics and has published one scientific research journal in the field of machine learning and financial time series.   Further, he holds a Bachelors of Science degree in Mathematics & Computer Science. ✨ 
 
 
 - 👀 Feel free to view and improve my work 
