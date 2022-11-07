@@ -12,11 +12,11 @@
 - 👯 I’m looking to collaborate on different data science projects more so in the area of agriculture and climate change.
 
  💬 Ask me about 
- - Python programming (Pandas, matplotlib, tensorflow)
+ - Python programming
  - R programming
  - Geographic Information Systems (GIS)
  - Power BI
- - React javascript
+ - javascript
  - HTML & CSS
  - SQL
  
