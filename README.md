@@ -12,15 +12,18 @@
 - 👯 I’m looking to collaborate on different data science projects more so in the area of agriculture and climate change.
 
  💬 Ask me about 
- - Python programming
- - R programming
- - Geographic Information Systems (GIS)
- - Power BI
  - javascript
- - HTML & CSS
- - SQL
+ - React.js
+ - Next.js
+ - React Native
+ - MySql
+ - Node.js
+ - Express.js
+ - FastAPI
+ - DJANGO
+ - Machine Learning
  
  📫 You can view some of my projects and contact information at: 
- - https://samuelwanjiru.netlify.app/
+ - https://www.samuelwanjiru.com/
 
 
